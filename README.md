@@ -112,7 +112,7 @@ Detailed experiment results are available in the notebooks and `results/` direct
 **Development:** Jupyter Notebook, Git, GitHub
 
 
-## 📈 Evaluation
+##  Evaluation
 
 Models were primarily compared using **test accuracy**.
 
@@ -120,7 +120,7 @@ Training and validation performance were also reviewed to understand model gener
 
 ---
 
-## 🚀 Future Improvements
+##  Future Improvements
 
 - Complete transformer fine-tuning and evaluation
 - Add precision, recall, F1-score, and confusion matrices
@@ -130,7 +130,7 @@ Training and validation performance were also reviewed to understand model gener
 
 ---
 
-## 👤 Author
+##  Author
 
 **Archit Tomar**
 
