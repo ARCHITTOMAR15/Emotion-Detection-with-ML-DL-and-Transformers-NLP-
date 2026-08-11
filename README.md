@@ -139,3 +139,20 @@ AI/ML | NLP | Deep Learning | Transformers
 ---
 
  If you find this project useful, consider giving the repository a star.
+
+
+ Raw Text
+   ↓
+Text Cleaning
+   ↓
+Train / Validation / Test
+   ↓
+ ┌──────────────┬──────────────┬──────────────┐
+ ↓              ↓              ↓
+Traditional ML  Deep Learning  Transformers
+ ↓              ↓              ↓
+BoW / TF-IDF    RNN/LSTM/GRU   BERT
+ ↓              ↓              ↓
+        Model Evaluation
+               ↓
+       Emotion Prediction
