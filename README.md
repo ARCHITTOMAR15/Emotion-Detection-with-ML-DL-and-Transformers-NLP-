@@ -6,7 +6,7 @@ The project explores different text representations and model architectures to u
 
 ---
 
-## 🎯 Key Results
+##  Key Results
 
 | Approach | Best Model | Test Accuracy |
 |---|---|---:|
@@ -14,11 +14,11 @@ The project explores different text representations and model architectures to u
 | Deep Learning | GRU / Stacked GRU | **92%** |
 | Transformers | BERT-based experiment | Explored |
 
-> 🏆 **Best completed result: 92% test accuracy with GRU-based models.**
+>  **Best completed result: 92% test accuracy with GRU-based models.**
 
 ---
 
-## 🧠 Approach
+##  Approach
 
 ```text
 Raw Text
@@ -59,7 +59,7 @@ Transformers ────────┘
 
 ---
 
-## 📊 Model Comparison
+##  Model Comparison
 
 ### Traditional ML
 
@@ -86,7 +86,7 @@ Detailed experiment results are available in the notebooks and `results/` direct
 
 ---
 
-## 🔍 Key Findings
+##  Key Findings
 
 - Traditional ML models achieved competitive results using BoW and TF-IDF.
 - Word2Vec experiments performed weaker than BoW/TF-IDF configurations.
@@ -97,7 +97,7 @@ Detailed experiment results are available in the notebooks and `results/` direct
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 **Language:** Python
 
@@ -111,53 +111,6 @@ Detailed experiment results are available in the notebooks and `results/` direct
 
 **Development:** Jupyter Notebook, Git, GitHub
 
----
-
-## 📁 Project Structure
-
-```text
-Emotion-Detection-with-ML-DL-and-Transformers-NLP-/
-│
-├── data train test validate/
-├── Traditional NLP -ML/
-├── DL-MODEL/
-├── results/
-├── README.md
-├── requirements.txt
-└── .gitignore
-```
-
----
-
-## ⚙️ Run Locally
-
-### 1. Clone the repository
-
-```bash
-git clone https://github.com/ARCHITTOMAR15/Emotion-Detection-with-ML-DL-and-Transformers-NLP-.git
-cd Emotion-Detection-with-ML-DL-and-Transformers-NLP-
-```
-
-### 2. Install dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-### 3. Start Jupyter Notebook
-
-```bash
-jupyter notebook
-```
-
-Open the notebooks inside:
-
-```text
-Traditional NLP -ML/
-DL-MODEL/
-```
-
----
 
 ## 📈 Evaluation
 
@@ -179,10 +132,10 @@ Training and validation performance were also reviewed to understand model gener
 
 ## 👤 Author
 
-**Archit**
+**Archit Tomar**
 
 AI/ML | NLP | Deep Learning | Transformers
 
 ---
 
-⭐ If you find this project useful, consider giving the repository a star.
+ If you find this project useful, consider giving the repository a star.
